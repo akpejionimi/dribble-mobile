@@ -52,7 +52,7 @@ img{
 /* main body */
 .section-one{
     margin: auto;
-    width: 90%;
+    width: 80%;
     overflow: hidden;
 }
 .mobile-details{
@@ -82,19 +82,19 @@ img{
     background-color: #2d3436;
     justify-content: space-around;
 }  
-.card{
+.card-style{
     background-color: #2d3436;
     color: white;
     border-style: none;
     text-align: center;
     padding: 45px 45px;
 }
-.card h2{
+.card-style h2{
     font-size: 5em;
     font-weight: bolder;
     opacity: 0.9;
 }
-.card p{
+.card-style p{
     opacity: 0.5;
 }
 /* section-three */
