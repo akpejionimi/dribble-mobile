@@ -31,10 +31,12 @@ img{
     border-bottom: solid rgb(204, 134, 109);
     padding: 7px;
 }
-.btn{
+.btn4{
     padding: 7px 15px;
     color:white;
     background-color:  #2d3436;
+    border-style: none;
+    border-radius: 5px;
 }
 .deco{
     font-family: 'Oswald',Helvetica, sans-serif;
