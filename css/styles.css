@@ -20,6 +20,9 @@ img{
     padding-top: 10px;
     overflow: hidden;
 }
+.page-logo{
+    border-radius: 7px;
+}
 
 .nav-list{
     list-style: none;
@@ -107,13 +110,12 @@ img{
     
 }
 .mobile-icon{
-    flex: 50%;
     width: 100%;
 }
-.mobileinfo{
-    flex: 50%;
+/* .mobileinfo{
+   
     
-}
+} */
 .mobileinfo h2{
     font-weight: bolder;
 }
