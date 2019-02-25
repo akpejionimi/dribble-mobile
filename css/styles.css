@@ -298,8 +298,21 @@ width: 80%;
     border-bottom: solid rgb(204, 134, 109);
     padding: 2px;
 }
+.btn2{
+    width: 70%;
+    padding: 15px 20px;
+    font-size: 1em;
+    font-family: 'Exo', sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #2d3436;
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 2px -2px 30px #2d3436;
+  }
 
 
 
 }
+
 

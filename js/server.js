@@ -12,7 +12,7 @@ let list = document.querySelector(".list");
         .then(data => {
             data.forEach(element => {
                 let item = document.createElement("li");
-                item.classList.add('col-sm-2');
+                item.classList.add('col-md-3');
                 item.classList.add('card');
                 item.classList.add('text-center');
                 

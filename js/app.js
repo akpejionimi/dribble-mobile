@@ -1,5 +1,5 @@
-let menuBar = document.querySelector('#hamb-menu');
-let details =  document.querySelector('#navLinks');
+const menuBar = document.querySelector('#hamb-menu');
+const details =  document.querySelector('#navLinks');
 
 menuBar.addEventListener('click', ()=> {
     menuBar.classList.toggle("change");
@@ -11,7 +11,7 @@ menuBar.addEventListener('click', ()=> {
 })
 
 $("Document").ready(function () {
-    let images = ['..images/dribble4.jpeg', '..images/unspash3x.jpg', '..images/iphonex.jpg'];
+    let images = ['images/dribble4.jpeg', 'images/unspash3x.jpg', 'images/unspash3x.jpg'];
     const mySlide = $(".float-icons");
     let currentIndex = 0;
 
